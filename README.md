@@ -1,5 +1,3 @@
-# Projeto-Vulcan-Softfactory
-
 # Projeto Vulcan - SoftFactory
 
 ## Integrante
